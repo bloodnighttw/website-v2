@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>css on bloodnighttw</title>
+    <link>https://adityatelange.github.io/tags/css/</link>
+    <description>Recent content in css on bloodnighttw</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 09 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://adityatelange.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>arch</title>
+      <link>https://adityatelange.github.io/posts/arch3/</link>
+      <pubDate>Tue, 09 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://adityatelange.github.io/posts/arch3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arch</title>
+      <link>https://adityatelange.github.io/posts/arch2/</link>
+      <pubDate>Thu, 27 Dec 2012 00:00:00 +0000</pubDate>
+      
+      <guid>https://adityatelange.github.io/posts/arch2/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>arch</title>
+      <link>https://adityatelange.github.io/posts/arch/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://adityatelange.github.io/posts/arch/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
