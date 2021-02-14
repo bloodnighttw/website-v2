@@ -3,66 +3,71 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://adityatelange.github.io/posts/arch-installation/</loc>
+    <loc>https://bloodnighttw.github.io/posts/arch-installation/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/tags/arch/</loc>
+    <loc>https://bloodnighttw.github.io/posts/my-arch-setup/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/categories/arch/</loc>
+    <loc>https://bloodnighttw.github.io/tags/arch/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/tags/archlinux/</loc>
+    <loc>https://bloodnighttw.github.io/categories/arch/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/series/archlinux/</loc>
+    <loc>https://bloodnighttw.github.io/tags/archlinux/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/</loc>
+    <loc>https://bloodnighttw.github.io/series/archlinux/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/categories/</loc>
+    <loc>https://bloodnighttw.github.io/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/tags/linux/</loc>
+    <loc>https://bloodnighttw.github.io/categories/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/posts/</loc>
+    <loc>https://bloodnighttw.github.io/tags/linux/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/series/</loc>
+    <loc>https://bloodnighttw.github.io/posts/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/tags/</loc>
+    <loc>https://bloodnighttw.github.io/series/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/archives/</loc>
+    <loc>https://bloodnighttw.github.io/tags/</loc>
+    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://adityatelange.github.io/search/</loc>
+    <loc>https://bloodnighttw.github.io/archives/</loc>
+  </url>
+  
+  <url>
+    <loc>https://bloodnighttw.github.io/search/</loc>
   </url>
   
 </urlset>
