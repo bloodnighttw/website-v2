@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>archlinux on bloodnighttw</title>
-    <link>https://bloodnighttw.github.io/series/archlinux/</link>
-    <description>Recent content in archlinux on bloodnighttw</description>
+    <title>wm on bloodnighttw</title>
+    <link>https://bloodnighttw.github.io/tags/wm/</link>
+    <description>Recent content in wm on bloodnighttw</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bloodnighttw.github.io/series/archlinux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bloodnighttw.github.io/tags/wm/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>tiling window manager 使用感想</title>
       <link>https://bloodnighttw.github.io/posts/my-arch-setup/</link>
@@ -20,22 +20,6 @@ OS: Arch Linux x86_64 Host: B85M-DS3H Kernel: 5.4.93-2-lts Packages: 832 (pacman
  我的學習影片 https://www.youtube.com/watch?v=j1I63wGcvU4&amp;amp;list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf
  i3wm用了是真的會很習慣性的讓手放在鍵盤上，但其實只用鍵盤的機會很少，畢竟需要用到滑鼠操作的程式還是比較多，而且，有些程式用起來會很痛苦，像是 jetbrains toolbox，但那是少數，整體來講，用鍵盤操作視窗是相當的舒服的。
 至於一些DE內會有的東西，單純的WM完全沒有，像是截圖軟體，這邊我使用flameshotk；處理通知的程式，這邊我使用dunst；Desktop Manager 則使用sddm；另外音訊的管理，我使用 Pavucontrol.</description>
-    </item>
-    
-    <item>
-      <title>Arch Linux Installation</title>
-      <link>https://bloodnighttw.github.io/posts/arch-installation/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bloodnighttw.github.io/posts/arch-installation/</guid>
-      <description>Arch Linux 安裝紀錄 前言 總之我成功了 但 直播軟體出點狀況 無法用 YT 做紀錄 就先用 Hackmd 記錄著 順便檢驗自己對安裝的熟悉度
-By the way 我一直卡在 bootloader 的設定安裝 總共失敗 六次 我都快把指令背下來了 不過我克服了 感謝網友 Arch Wiki 和 網路上提供較學的 DistroTube 然後，熟悉過後應該會裝到實體電腦上
-那麼，進入正題
- 第一步 下載 Arch Linux 的 ISO 接著就是讓他能開機 因為我是用 VirturalBox 做練習 如果是要裝在實體電腦上 我推薦用下面這個軟體製作開機碟 balenaEtcher
-第二步 開始打指令(幹話) 先設定時間的東西 (照著Arch Wiki 打就對了)
-$ timedatectl set-ntp true ntp 是什麼 可以可以參考這篇維基百科
-第三步 切割分割區 我是使用cfdisk 因為是使用 efi 開機 所以切三個分割區
-/dev/sda1 EFI System /dev/sda2 Swap /dev/sda3 Linux File System  接著就是格式化這些分割區</description>
     </item>
     
   </channel>

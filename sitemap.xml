@@ -3,13 +3,68 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://bloodnighttw.github.io/posts/my-arch-setup/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://bloodnighttw.github.io/posts/arch-installation/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://bloodnighttw.github.io/posts/my-arch-setup/</loc>
+    <loc>https://bloodnighttw.github.io/posts/titling_wm_though/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloodnighttw.github.io/series/archlinux/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloodnighttw.github.io/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloodnighttw.github.io/categories/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloodnighttw.github.io/tags/linux/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloodnighttw.github.io/posts/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloodnighttw.github.io/series/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloodnighttw.github.io/tags/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloodnighttw.github.io/tags/window-manager/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloodnighttw.github.io/tags/wm/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://bloodnighttw.github.io/categories/wm/</loc>
+    <lastmod>2021-02-15T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -28,37 +83,7 @@
   </url>
   
   <url>
-    <loc>https://bloodnighttw.github.io/series/archlinux/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bloodnighttw.github.io/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bloodnighttw.github.io/categories/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bloodnighttw.github.io/tags/linux/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bloodnighttw.github.io/posts/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bloodnighttw.github.io/series/</loc>
-    <lastmod>2021-02-10T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://bloodnighttw.github.io/tags/</loc>
+    <loc>https://bloodnighttw.github.io/series/linux/</loc>
     <lastmod>2021-02-10T00:00:00+00:00</lastmod>
   </url>
   

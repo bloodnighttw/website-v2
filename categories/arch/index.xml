@@ -22,14 +22,5 @@ $ timedatectl set-ntp true ntp 是什麼 可以可以參考這篇維基百科
 /dev/sda1 EFI System /dev/sda2 Swap /dev/sda3 Linux File System  接著就是格式化這些分割區</description>
     </item>
     
-    <item>
-      <title>Arch Linux Installation</title>
-      <link>https://bloodnighttw.github.io/posts/my-arch-setup/</link>
-      <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bloodnighttw.github.io/posts/my-arch-setup/</guid>
-      <description></description>
-    </item>
-    
   </channel>
 </rss>

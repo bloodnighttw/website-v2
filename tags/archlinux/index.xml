@@ -24,11 +24,13 @@ $ timedatectl set-ntp true ntp 是什麼 可以可以參考這篇維基百科
     
     <item>
       <title>Arch Linux Installation</title>
-      <link>https://bloodnighttw.github.io/posts/my-arch-setup/</link>
+      <link>https://bloodnighttw.github.io/posts/titling_wm_though/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
-      <guid>https://bloodnighttw.github.io/posts/my-arch-setup/</guid>
-      <description></description>
+      <guid>https://bloodnighttw.github.io/posts/titling_wm_though/</guid>
+      <description>author: &amp;ldquo;bloodnighttw&amp;rdquo; title: &amp;ldquo;tiling window manager 使用感想&amp;rdquo; date: &amp;ldquo;2021-02-15&amp;rdquo; description: &amp;ldquo;arch linux what i though&amp;rdquo; tags: [&amp;ldquo;window manager&amp;rdquo;,&amp;ldquo;wm&amp;rdquo;,&amp;ldquo;linux&amp;rdquo;] categories: [&amp;ldquo;wm&amp;rdquo;] series: [&amp;ldquo;archlinux&amp;rdquo;] ShowToc: true TocOpen: true weight: 2 tiling window manager 使用感想 前言 我之所以想使用 tiling window manager的原因:
+ 一般的DE實在很肥。 想看看許多人所說，tiling window manager到底是如何的增加使用效率。 帥  另外這是我的使用規格:
+OS: Arch Linux x86_64 Host: B85M-DS3H Kernel: 5.4.93-2-lts Packages: 832 (pacman) Shell: zsh 5.8 WM: i3 CPU: Intel i5-4460 (4) @ 3.400GHz GPU: NVIDIA GeForce GTX 1650 SUPER Themes: Darcula 另外，所用設定全都放在 bloodnighttw/dotfile</description>
     </item>
     
   </channel>
