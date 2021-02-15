@@ -7,12 +7,13 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 10 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bloodnighttw.github.io/categories/arch/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Arch Linux Installation</title>
+      <title>Arch Linux 安裝紀錄</title>
       <link>https://bloodnighttw.github.io/posts/arch-installation/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bloodnighttw.github.io/posts/arch-installation/</guid>
-      <description>Arch Linux 安裝紀錄 前言 總之我成功了 但 直播軟體出點狀況 無法用 YT 做紀錄 就先用 Hackmd 記錄著 順便檢驗自己對安裝的熟悉度
+      <description>注: 此篇文是從我的hackmd搬過來的。
+前言 總之我成功了 但 直播軟體出點狀況 無法用 YT 做紀錄 就先用 Hackmd 記錄著 順便檢驗自己對安裝的熟悉度
 By the way 我一直卡在 bootloader 的設定安裝 總共失敗 六次 我都快把指令背下來了 不過我克服了 感謝網友 Arch Wiki 和 網路上提供較學的 DistroTube 然後，熟悉過後應該會裝到實體電腦上
 那麼，進入正題
  第一步 下載 Arch Linux 的 ISO 接著就是讓他能開機 因為我是用 VirturalBox 做練習 如果是要裝在實體電腦上 我推薦用下面這個軟體製作開機碟 balenaEtcher

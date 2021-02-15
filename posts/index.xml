@@ -7,44 +7,32 @@
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 15 Feb 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://bloodnighttw.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>tiling window manager 使用感想</title>
-      <link>https://bloodnighttw.github.io/posts/my-arch-setup/</link>
-      <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
-      
-      <guid>https://bloodnighttw.github.io/posts/my-arch-setup/</guid>
-      <description>tiling window manager 使用感想 前言 我之所以想使用 tiling window manager的原因:
- 一般的DE實在很肥。 想看看許多人所說，tiling window manager到底是如何的增加使用效率。 帥  另外這是我的使用規格:
-OS: Arch Linux x86_64 Host: B85M-DS3H Kernel: 5.4.93-2-lts Packages: 832 (pacman) Shell: zsh 5.8 WM: i3 CPU: Intel i5-4460 (4) @ 3.400GHz GPU: NVIDIA GeForce GTX 1650 SUPER Themes: Darcula 另外，所用設定全都放在 bloodnighttw/dotfile
-心得文 使用兩週(大概啦)後，我覺得有幾點是我的想法：
- 其實讓操作變得有效率的不是Tiling window Manager 本身，而是快捷鍵本身。 手不用離開鍵盤其實是假的，但使用鍵盤的比率的確會使操作變快 調整視窗大小很方便，但彈性並沒有那麼高（但屬於夠用了）。  另外，其實i3wm並沒有想像中的難學，但對不願意花時間動手做的當然很難學，而他的設定檔也是算好懂的。
- 我的學習影片 https://www.youtube.com/watch?v=j1I63wGcvU4&amp;amp;list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf
- i3wm用了是真的會很習慣性的讓手放在鍵盤上，但其實只用鍵盤的機會很少，畢竟需要用到滑鼠操作的程式還是比較多，而且，有些程式用起來會很痛苦，像是 jetbrains toolbox，但那是少數，整體來講，用鍵盤操作視窗是相當的舒服的。
-至於一些DE內會有的東西，單純的WM完全沒有，像是截圖軟體，這邊我使用flameshotk；處理通知的程式，這邊我使用dunst；Desktop Manager 則使用sddm；另外音訊的管理，我使用 Pavucontrol.</description>
-    </item>
-    
-    <item>
-      <title>tiling window manager 使用感想</title>
+      <title>i3wm 使用感想</title>
       <link>https://bloodnighttw.github.io/posts/titling_wm_though/</link>
       <pubDate>Mon, 15 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bloodnighttw.github.io/posts/titling_wm_though/</guid>
-      <description>tiling window manager 使用感想 前言 我之所以想使用 tiling window manager的原因:
- 一般的DE實在很肥。 想看看許多人所說，tiling window manager到底是如何的增加使用效率。 帥  另外這是我的使用規格:
+      <description>前言 我之所以想使用 i3wm的原因:
+ 一般的DE實在很肥。 想看看許多人所說，tiling window manager到底是如何的增加使用效率。 帥  另外這是我的電腦設置:
 OS: Arch Linux x86_64 Host: B85M-DS3H Kernel: 5.4.93-2-lts Packages: 832 (pacman) Shell: zsh 5.8 WM: i3 CPU: Intel i5-4460 (4) @ 3.400GHz GPU: NVIDIA GeForce GTX 1650 SUPER Themes: Darcula 另外，所用設定全都放在 bloodnighttw/dotfile
 心得文 使用兩週(大概啦)後，我覺得有幾點是我的想法：
  其實讓操作變得有效率的不是Tiling window Manager 本身，而是快捷鍵本身。 手不用離開鍵盤其實是假的，但使用鍵盤的比率的確會使操作變快 調整視窗大小很方便，但彈性並沒有那麼高（但屬於夠用了）。  另外，其實i3wm並沒有想像中的難學，但對不願意花時間動手做的當然很難學，而他的設定檔也是算好懂的。
  我的學習影片 https://www.youtube.com/watch?v=j1I63wGcvU4&amp;amp;list=PL5ze0DjYv5DbCv9vNEzFmP6sU7ZmkGzcf
  i3wm用了是真的會很習慣性的讓手放在鍵盤上，但其實只用鍵盤的機會很少，畢竟需要用到滑鼠操作的程式還是比較多，而且，有些程式用起來會很痛苦，像是 jetbrains toolbox，但那是少數，整體來講，用鍵盤操作視窗是相當的舒服的。
-至於一些DE內會有的東西，單純的WM完全沒有，像是截圖軟體，這邊我使用flameshotk；處理通知的程式，這邊我使用dunst；Desktop Manager 則使用sddm；另外音訊的管理，我使用 Pavucontrol.</description>
+至於一些DE內會有的東西，單純的WM完全沒有，像是截圖軟體，這邊我使用flameshotk；處理通知的程式，這邊我使用dunst；Desktop Manager 則使用sddm；另外音訊的管理，我使用 Pavucontrol.
+沒有DE造成的問題，有的，像是flameshot會因為沒有處理通知的程式，導致截圖後畫面凍結很久，另外，因為我耳機的關係，有需要在有線與無線模式間切換，輸入又是不同方式，沒有提供管理程式真的不方便，所以剛開始我也裝了plasma，不過後來我就移除了(還不小心連sddm也遺除了 這邊就不贅述了)。
+然後在這之後我就順順的用，沒意外的話我應該不會換回去plasma （它是個比GNOME還好用的DE老實說）。
+結論 i3wm是個window manager ，而不是個desktop environment，透過一番調校，會讓你的使用體驗很好，反之則會很差。</description>
     </item>
     
     <item>
-      <title>Arch Linux Installation</title>
+      <title>Arch Linux 安裝紀錄</title>
       <link>https://bloodnighttw.github.io/posts/arch-installation/</link>
       <pubDate>Wed, 10 Feb 2021 00:00:00 +0000</pubDate>
       
       <guid>https://bloodnighttw.github.io/posts/arch-installation/</guid>
-      <description>Arch Linux 安裝紀錄 前言 總之我成功了 但 直播軟體出點狀況 無法用 YT 做紀錄 就先用 Hackmd 記錄著 順便檢驗自己對安裝的熟悉度
+      <description>注: 此篇文是從我的hackmd搬過來的。
+前言 總之我成功了 但 直播軟體出點狀況 無法用 YT 做紀錄 就先用 Hackmd 記錄著 順便檢驗自己對安裝的熟悉度
 By the way 我一直卡在 bootloader 的設定安裝 總共失敗 六次 我都快把指令背下來了 不過我克服了 感謝網友 Arch Wiki 和 網路上提供較學的 DistroTube 然後，熟悉過後應該會裝到實體電腦上
 那麼，進入正題
  第一步 下載 Arch Linux 的 ISO 接著就是讓他能開機 因為我是用 VirturalBox 做練習 如果是要裝在實體電腦上 我推薦用下面這個軟體製作開機碟 balenaEtcher
